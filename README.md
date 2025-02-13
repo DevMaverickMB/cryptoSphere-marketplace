@@ -53,10 +53,7 @@ Pull requests are welcome! If you'd like to contribute:
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-🚀 Portfolio: [Your Portfolio Link]  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-📧 Email: your@email.com
+**Milind Bhushan**  
+(DevMaverickMB)
 
 Feel free to modify and personalize it as needed!
-
