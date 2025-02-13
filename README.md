@@ -1,6 +1,5 @@
 # Cryptosphere Marketplace
-
-![Cryptosphere Marketplace](https://cryptosphere-marketplace.netlify.app/favicon.ico)
+[🌐LIVE](https://cryptosphere-marketplace.netlify.app)
 
 ## 📌 Overview
 **Cryptosphere Marketplace** is a powerful cryptocurrency tracking platform designed for enthusiasts, traders, and investors. The application provides real-time price updates, interactive historical charts, and market insights for various cryptocurrencies. Users can seamlessly switch between different currencies (USD, EUR, INR) and analyze trends with visually appealing data representations.
@@ -23,17 +22,6 @@
 - **State Management:** React Context API
 - **Styling:** CSS
 - **Data Source:** CoinGecko API
-
----
-
-## 🌍 Deployment
-This project is deployed on **Netlify**.
-To deploy manually:
-1. Build the project:
-   ```sh
-   npm run build
-   ```
-2. Upload the `dist` folder to your hosting service (Netlify, Vercel, GitHub Pages, etc.).
 
 ---
 
@@ -61,11 +49,6 @@ Pull requests are welcome! If you'd like to contribute:
 3. Commit your changes (`git commit -m 'Add new feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a Pull Request
-
----
-
-## 📜 License
-This project is copyright @2025.
 
 ---
 
