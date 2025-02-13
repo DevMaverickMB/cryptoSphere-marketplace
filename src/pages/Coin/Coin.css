@@ -132,3 +132,71 @@
     font-weight: 300;
   }
 
+
+  @media (max-width: 900px) {
+    .coin {
+        padding: 0 15px;
+    }
+    .coin-name {
+        gap: 15px;
+        margin: 40px auto;
+    }
+    .coin-name img {
+        max-width: 75px;
+    }
+    .coin-name p b {
+        font-size: 28px;
+    }
+    .coin-chart {
+        max-width: 600px;
+        height: 250px;
+    }
+    .coin-info {
+        max-width: 450px;
+    }
+}
+
+@media (max-width: 768px) {
+    .coin-name {
+        gap: 12px;
+        margin: 30px auto;
+    }
+    .coin-name img {
+        max-width: 65px;
+    }
+    .coin-name p b {
+        font-size: 24px;
+    }
+    .coin-chart {
+        max-width: 100%;
+        height: 250px;
+    }
+    .coin-info {
+        max-width: 90%;
+        margin: 40px auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .coin {
+        padding: 0 10px;
+    }
+    .coin-name {
+        gap: 10px;
+        margin: 25px auto;
+    }
+    .coin-name img {
+        max-width: 50px;
+    }
+    .coin-name p b {
+        font-size: 20px;
+    }
+    .coin-chart {
+        height: 250px;
+    }
+    .coin-info {
+        max-width: 100%;
+        padding: 0 5%;
+        font-size: 14px;
+    }
+}
