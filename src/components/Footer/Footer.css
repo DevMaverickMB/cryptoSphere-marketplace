@@ -1,0 +1,18 @@
+.footer {
+  color: #e3e3e3;
+  text-align: center;
+  margin: auto;
+  max-width: 80%;
+  /* border-top: 1px solid #989898; */
+  padding: 15px 0px;
+  font-size: 15px;
+}
+
+.footer p{
+  margin-bottom: 5px;
+}
+
+.name {
+  color: #3b82f6;
+  font-weight: 100;
+}
