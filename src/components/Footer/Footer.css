@@ -1,5 +1,5 @@
 .footer {
-  color: #e3e3e3;
+  color: #c7c7c7;
   text-align: center;
   margin: auto;
   max-width: 80%;
@@ -10,6 +10,7 @@
 
 .footer p{
   margin-bottom: 5px;
+  font-weight: 300;
 }
 
 .name {

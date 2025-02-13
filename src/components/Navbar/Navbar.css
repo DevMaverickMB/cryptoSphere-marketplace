@@ -64,7 +64,7 @@
     padding: 20px 8%;
   }
   .navbar .logo {
-    width: max(8vw, 180px); /* Decrease size on medium screens */
+    width: max(8vw, 220px); /* Decrease size on medium screens */
   }
   .navbar button {
     gap: 8px;
@@ -78,7 +78,7 @@
     padding: 20px 5%;
   }
   .navbar .logo {
-    width: max(8vw, 180px); /* Further reduce size on small screens */
+    width: max(8vw, 220px); /* Further reduce size on small screens */
   }
   .navbar ul {
     display: none;
@@ -86,11 +86,14 @@
   .navbar button {
     display: none;
   }
+  .nav-right select{
+    margin-right: 25px;
+  }
 }
 
   @media (max-width: 480px) {
     .navbar .logo {
-      width: max(8vw, 180px); /* Even smaller for extra small screens */
+      width: max(8vw, 220px); /* Even smaller for extra small screens */
     }
   }
 
